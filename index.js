@@ -17,6 +17,6 @@ const allison = new Driver ( "Allison", "16 years", "2 years" )
 function PickupLocation ( address, city) {
   this.address = address
   this.city = city
-}   
+}
 
 const poshHotel = new PickupLocation ( "123 Boardway", "New York City" )
