@@ -14,7 +14,7 @@ function Driver (name, age, experience) {
 
 const allison = new Driver ( "Allison", "16 years", "2 years" )
 
-function PickupLocation ( address, city) {
+function PickupLocation (address, city) {
   this.address = address
   this.city = city
 }
